@@ -1,4 +1,4 @@
-# lending1.2
+Верстка лендинга по макету
 
-Ссылка на страницу:
+Посмотреть:
 https://lubsanovao.github.io/lending1.2/
